@@ -2,7 +2,7 @@ body {
     padding: 50px;
     color: #442c2e;
     text-align: center;
-    font-family: 'Yatra One', cursive;
+    font-family: 'Karla', sans-serif;
     background-color: #feeae6;
 }
 h2, h3 { 
@@ -21,7 +21,7 @@ button {
     text-decoration: none;
     display: inline-block;
     font-size: 25px;
-    font-family: 'Yatra One', cursive;
+    font-family: 'Karla', sans-serif;
     
 }
 
